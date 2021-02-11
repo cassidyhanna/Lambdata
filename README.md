@@ -3,19 +3,15 @@
 
 ## Installation
 
-Todo
+```sh
+pip install ____
+```
 
 # Usage
 
-Todo
 
 ```py
-# todo
+from my_lambdata_pt2.my_mod import enlarge
+
+print(enlarge(8))
 ```
-
-<hr>
-
-this is a list:
-
-    + item 1
-    + item 2
