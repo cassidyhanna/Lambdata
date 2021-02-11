@@ -1,4 +1,4 @@
-# Lamdata
+# Lambdata
 
 
 ## Installation
